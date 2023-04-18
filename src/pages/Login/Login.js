@@ -48,7 +48,6 @@ const Login = () => {
     <Container>
       <Image src={Labeddit}></Image>
       <h1>O Projeto da rede social da Labenu</h1>
-      <h1>Desenvolvido por Gabriel Maciel</h1>
 
       <input
         value={email}
